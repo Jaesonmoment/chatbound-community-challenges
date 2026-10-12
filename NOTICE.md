@@ -1,0 +1,1 @@
+Project code copyright (c) 2026 Jaesaen, MIT. No outside runtime dependencies. Visible credit to Jaesaen and optional support are appreciated, not required. No royalties are required. Preserve applicable license notices.
